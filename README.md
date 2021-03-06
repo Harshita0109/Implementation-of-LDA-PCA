@@ -1,4 +1,4 @@
-# Implementation-of-LDA-PCA
+# Implementation-of-LDA-&-PCA
 The aim is to implement PCA and LDA technique on credit card dataset to reduce the dimensionality of the dataset.
 
 **Data Source** : Kaggle.com
